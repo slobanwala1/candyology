@@ -1,5 +1,10 @@
 This repository contains an analysis of various questions about the very important topic of candy.
 
+### Navigating This Repo
+* Images folder shows images and plots generated through the data analysis
+* Resources folder shows data files used (unless the source file was too big)
+* Jupyter notebook includes code used for analysis and data cleanup
+
 ## Key Questions:
 * To what extent is chocolate the most important element of a favorite candy?
 * What is the relationship between favorite candies and candies that are purchased - in each state? Overall?
