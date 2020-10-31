@@ -19,19 +19,25 @@ This question is exploring is most important elements of favorite candies, speci
 
 The FiveThirtyEight data shows that every top ten candy had chocolate as an element. Although chocolate and fruity candies were equally represented in the data set, there were no fruity candies in the top ten.
 
-insert graphs here
+![alt text](https://github.com/slobanwala1/candyology/blob/candyTest/images/overall_types.PNG?raw=true "Total Counts of Candy Type in Dataset")
+
+![alt text](https://github.com/slobanwala1/candyology/blob/candyTest/images/Types%20of%20Candies%20in%20Top%20Ten.png?raw=true "Top Ten Candy Elements Bar Chart")
+
+![alt text](https://github.com/slobanwala1/candyology/blob/candyTest/images/Types%20of%20Candies%20in%20Bottom%20Ten%20as%20Percent%20of%20Group%20Total.png?raw=true "Top Ten Candies as Percentage of Total Grouping Bar Chart")
 
 As representatives of their data sets, peanutyalmondy candies performed better than the other groups, with half of the peanutyalmondy candies landing a spot in the top ten.
 
 Bottom ten candies show no chocolate, nougat, crisped rice, or bar candies. 7 of the 10 bottom ten are pluribus - indicating that the candy is a box of many items, suggesting that the types of candies that end up in boxes are less preferred than single or bar candies.
 
-insert graphs here.
+![alt text](https://github.com/slobanwala1/candyology/blob/candyTest/images/Types%20of%20Candies%20in%20Bottom%20Ten.png?raw=true "Bottom Ten Candy Elements Bar Chart")
+
+![alt text](https://github.com/slobanwala1/candyology/blob/candyTest/images/Types%20of%20Candies%20in%20Bottom%20Ten%20as%20Percent%20of%20Group%20Total.png?raw=true "Bottom Ten Candies as Percentage of Total Grouping Bar Chart")
 
 The pluribus candies represent 16% of their total data set (with 7 candies) while peanutyalmondy represent 7% of their total (with 1 candy) in the bottom 10.
 
 Ultimately, candies containing chocolate (n=37) performed better in the candy match ups than candies that did not contain chocolate (n=48).
 
-insert graph here.
+![alt text](https://github.com/slobanwala1/candyology/blob/candyTest/images/Average%20Wins%20for%20Chocolate%20and%20Non-Chocolate%20Candies.png?raw=true "Bar graph showing Average Wins for Chocolate and Non-Chocolate Candies, Chocolate bar at 60% and Non-Chocolate Bar at 42%")
 
 This suggests that the null hypothesis is rejected, and chocolate as an ingredient has an impact on favorite candies.
 
