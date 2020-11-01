@@ -140,9 +140,9 @@ In this final chart, we looked at the top three countries producing the most sug
 ![Top 3 Sugar Production 2000-2019](https://github.com/slobanwala1/candyology/blob/main/Images/Top3SugarProductionSum2000To2019.PNG)
 
 ### Data limitations & Further discussions
-*Finding data was a challenge - privately owned or very expensive
-*Lots of conflicting data - different owners mean different bias
-*Would like to do more comparisons with dental data and other health issues and get hands on more broad candy purchasing data
+* Finding data was a challenge - privately owned or very expensive
+* Lots of conflicting data - different owners mean different bias
+* Would like to do more comparisons with dental data and other health issues and get hands on more broad candy purchasing data
 
 ### Presentation Link
 Find linked visual support for data presentation from 10/31/2020 - https://docs.google.com/presentation/d/1vw6C9iiEpf2EX1O7sxGdaLwSNd-_ESP2WSKsJGiv1ys/edit?usp=sharing
