@@ -48,11 +48,6 @@ This suggests that the null hypothesis is rejected, and chocolate as an ingredie
 
 ### Question Two - What is the relationship between favorite candies and candies that are purchased - in each state? Overall?
 
-Christine enter write up here including graphs in the format below
-![alt text](githublink "alt_text")
-
-### Question Two - What is the relationship between favorite candies and candies that are purchased - in each state? Overall?
-
 The best dataset we could find for candy purchases were from a candy wholesaler's website. They posted a chart with the top three candies purchased in each state, along with the amount of candy purchased.
 
 To answer our question, we looked at the amount of candy purchased by each state, totaled and adjusted for population size. In retrospect, I wish I would have used population size, in all. Instead I used the population, in millions. Which still serves the purpose of giving as per capita information, but it means that the amount of candy we have for purchase data is in pounds per million, which isn't as user friendly -- and also makes for some long titles and labels.
@@ -60,29 +55,29 @@ To answer our question, we looked at the amount of candy purchased by each state
 First I looked at the amount of candy purchased, adjusted for population. The state purchasing the most candy was Arizona. They purcahsed about a third of a pound per person. Utah, Nevada, Kansas and North Dakota rounded out the top five. Looking at the rankings, by state, one could come to the conclusion that southwestern mountain states purchased the most candy.
 
 
-[Pounds Per State](https://github.com/slobanwala1/candyology/blob/main/Images/PoundsPerState.png)
+![Pounds Per State](https://github.com/slobanwala1/candyology/blob/main/Images/PoundsPerState.png)
 
 Next I did an analysis of the Top Choice of each state. I added the totals of this column and found that Skittles and Starburst were purchased far more than the others. In fact, I found that they were outliers among the rest of the other Top Choices. In the case of Skittles, it is because it was the most popular candy in California. California wasn't one of the states purchasing the most, per person, but because of the shear size of the population, their Top Choice was by far the greatest. And they really like Skittles. They purchased 1.5 million pounds of Skittles and that is 46 percent of total Skittle sales for all states. I created a second bar chart of Top Choices, with Skittles and Starburst removed to show that changed things. Also, it is important to note that Jolly Ranchers, Sour Patch Kids anad Hot Tamales made up the rest of the Top Five in Top Choice candies. Notice that there is no chocolate there.
 
-[New Candy Pounds](https://github.com/slobanwala1/candyology/blob/main/Images/newcandypounds.png)
+![New Candy Pounds](https://github.com/slobanwala1/candyology/blob/main/Images/newcandypounds.png)
 
 Here's a box plot, showing the outliers in total purchases.
 
-[Candy Box](https://github.com/slobanwala1/candyology/blob/main/Images/CandyBox.png)
+![Candy Box](https://github.com/slobanwala1/candyology/blob/main/Images/CandyBox.png)
 
 Here's the adjusted bar chart.
 
-[Candy Bar](https://github.com/slobanwala1/candyology/blob/main/Images/AdjustedCandyBar.png)
+![Candy Bar](https://github.com/slobanwala1/candyology/blob/main/Images/AdjustedCandyBar.png)
 
 Next I looked at total candy purchased, by brand, over all. Now this is just the top three choices, by state, but in this list, there was a little bit more chocolate -- Snickers, M&Ms, Reese's and Hershey kisses were in the top 10.
 
-[Total Purchase Bar](https://github.com/slobanwala1/candyology/blob/main/Images/totalpurchasebar.png)
+![Total Purchase Bar](https://github.com/slobanwala1/candyology/blob/main/Images/totalpurchasebar.png)
 
 The only overlap between the top ten candies purchased from CandyStore.com and candies ranked from FiveThirtyEight are Reese's Peanut Butter Cups and Snickers, which is only 20% of the top ten, indicating a weak correlation between the two measures of favorite candy.
 
 Lastly I looked to see if there is any correlation between candy purchases and demographics. The most likely correlation, I thought, was in age of the people in the state. So I found a dataset with the average age of residents and added a CSV with the percentage of the population under the age of 18. More kids mean more candy, right? Using Pearson's coefficient, I found a week correlation of 33 percent. Although I would point out that Utah is the youngest state and is also one of the top ranking states in terms of pounds purchased per million people.
 
-[Scatter Plot Line](https://github.com/slobanwala1/candyology/blob/main/Images/scatterplotline.png)
+![Scatter Plot Line](https://github.com/slobanwala1/candyology/blob/main/Images/scatterplotline.png)
 
 The only overlap between the top ten candies purchased from CandyStore.com and candies ranked from FiveThirtyEight are Reese's Peanut Butter Cups and Snickers, which is only 20% of the top ten, indicating a weak correlation between the two measures of favorite candy.
 
