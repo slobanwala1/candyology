@@ -67,7 +67,7 @@ Here's a box plot, showing the outliers in total purchases.
 
 Here's the adjusted bar chart.
 
-![Candy Bar](https://github.com/slobanwala1/candyology/blob/main/Images/AdjustedCandyBar.png)
+![Candy Bar](https://github.com/slobanwala1/candyology/blob/main/Images/labeledadjustedcandybar.png?raw=true)
 
 Next I looked at total candy purchased, by brand, over all. Now this is just the top three choices, by state, but in this list, there was a little bit more chocolate -- Snickers, M&Ms, Reese's and Hershey kisses were in the top 10.
 
