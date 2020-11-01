@@ -133,11 +133,11 @@ Since we only have one years worth of data that's the only correlation we can sh
 
 As part of our analysis, we looked at chocolate and confections as a commodity for another analysis into the worldwide consumption of candy . As you can see from our chart, the US is the top importer. The amount of imports increases at a fairly steady rate, except around 2005-2006, when Hurricane Katrina affected sugar production.
 
-![Total Sugar Production 2000-2019](https://github.com/slobanwala1/candyology/blob/main/Images/TotalSugarProductionSum2000To2019.png)
+![Total Sugar Production 2000-2019](https://github.com/slobanwala1/candyology/blob/main/Images/TotalSugarProductionSum2000To2019.PNG)
 
 In this final chart, we looked at the top three countries producing the most sugar and dental visits for 12 year olds. China, the US and Russia are the top sugar-producing countries. What we found is the top producing country, although it doesn’t appear that they consume the most.
 
-![Top 3 Sugar Production 2000-2019](https://github.com/slobanwala1/candyology/blob/main/Images/Top3SugarProductionSum2000To2019.png)
+![Top 3 Sugar Production 2000-2019](https://github.com/slobanwala1/candyology/blob/main/Images/Top3SugarProductionSum2000To2019.PNG)
 
 ### Data limitations & Further discussions
 *Finding data was a challenge - privately owned or very expensive
