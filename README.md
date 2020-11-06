@@ -137,7 +137,7 @@ If there is more sugar for the population to consume, there will be a higher cha
 
 To formulate a conclusion, we first need to look at confectionary import data:
 
-![Total Sugar Production 2000-2019](https://github.com/slobanwala1/candyology/blob/main/Images/download.png) (https://github.com/slobanwala1/candyology/blob/main/Images/download1.png)
+![Total Sugar Production 2000-2019](https://github.com/slobanwala1/candyology/blob/main/Images/download-1.png) (https://github.com/slobanwala1/candyology/blob/main/Images/download-2.png)
 
 In these two charts we look at the top confectionary imports around the world with and without sugar. As we can  clearly see, the United States is the top importer for both. Based on this data, we should expect to see less confectionary production inside of the United States.
 
@@ -146,7 +146,7 @@ In these two charts we look at the top confectionary imports around the world wi
 This pie chart is what we expected. We see a clear increase in production in China. This tells us that a lot of the sugar China produces is exported to the United States.
 We also see that the United States only produces 4.2% of the global sugar production.
 
-![Consumption v Dental](https://github.com/slobanwala1/candyology/blob/main/Images/consumption%20and%20dental.png)
+![Consumption v Dental](https://github.com/slobanwala1/candyology/blob/main/Images/DentalVisitsGraph.png)
 
 At first this data might be a little confusing beacuse it now looks like there is no correlation between sugar production and dental health, but it is a little bit more complicated than that.
 
