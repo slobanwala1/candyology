@@ -131,29 +131,13 @@ Since we only have one years worth of data that's the only correlation we can sh
 
 ### Question Four - What is the relationship between candy consumption and candy production?
 
-As a part of our analysis, we looked at chocolate and confections as a commodity for another analysis into the worldwide consumption of candy. Our Null Hypothesis for this question was that there is a negative correlation between sugar imports and sugar production, ultimately resulting in a correlation between sugar imports with dental health.
-Our thinking was a higher rate of imports of any commodity should result in lower local production.
-If there is more sugar for the population to consume, there will be a higher chance for dental health problems.
+As part of our analysis, we looked at chocolate and confections as a commodity for another analysis into the worldwide consumption of candy . As you can see from our chart, the US is the top importer. The amount of imports increases at a fairly steady rate, except around 2005-2006, when Hurricane Katrina affected sugar production.
 
-To formulate a conclusion, we first need to look at confectionary import data:
+![Total Sugar Production 2000-2019](https://github.com/slobanwala1/candyology/blob/main/Images/TotalSugarProductionSum2000To2019.PNG)
 
-![Total Sugar Production 2000-2019](https://github.com/slobanwala1/candyology/blob/main/Images/download.png) (https://github.com/slobanwala1/candyology/blob/main/Images/download1.png)
+In this final chart, we looked at the top three countries producing the most sugar and dental visits for 12 year olds. China, the US and Russia are the top sugar-producing countries. What we found is the top producing country, although it doesn’t appear that they consume the most.
 
-In these two charts we look at the top confectionary imports around the world with and without sugar. As we can  clearly see, the United States is the top importer for both. Based on this data, we should expect to see less confectionary production inside of the United States.
-
-![Top 3 Sugar Production 2000-2019](https://github.com/slobanwala1/candyology/blob/main/Images/Top3.png)
-
-This pie chart is what we expected. We see a clear increase in production in China. This tells us that a lot of the sugar China produces is exported to the United States.
-We also see that the United States only produces 4.2% of the global sugar production.
-
-![Consumption v Dental](https://github.com/slobanwala1/candyology/blob/main/Images/consumption%20and%20dental.png)
-
-At first this data might be a little confusing beacuse it now looks like there is no correlation between sugar production and dental health, but it is a little bit more complicated than that.
-
-Dental visits vary based on the country. In China, only 12% of the population go to the dentist annually. In the United States, that number is 58%, and in Russia, it is 69%. This explains the difference we see between these two charts.
-
-Adjusting for these new dental visit counts, we can safely conclude that there is a negative correlation between sugar imports and sugar production, ultimately resulting in a correlation between sugar imports with dental health.
-
+![Top 3 Sugar Production 2000-2019](https://github.com/slobanwala1/candyology/blob/main/Images/Top3SugarProductionSum2000To2019.PNG)
 
 ### Data limitations & Further discussions
 * Finding data was a challenge - privately owned or very expensive
