@@ -1,5 +1,7 @@
 This repository contains an analysis of various questions about the very important topic of candy.
 
+Group members: Samantha Sainsbury, Christine Magnotta, Colin Daniels, Shanil Lobanwala
+
 ### Navigating This Repo
 * Images folder shows images and plots generated through the data analysis
 * Resources folder shows data files used (unless the source file was too big)
